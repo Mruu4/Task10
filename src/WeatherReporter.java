@@ -1,3 +1,3 @@
 public interface WeatherReporter {
-    String geReport();
+    String getReport();
 }
