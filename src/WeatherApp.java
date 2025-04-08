@@ -6,6 +6,6 @@ public class WeatherApp {
     }
 
     public void showWeather() {
-        System.out.println(reporter.geReport());
+        System.out.println(reporter.getReport());
     }
 }
